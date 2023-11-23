@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Personality-Analysis-for-Marketing-Optimization
+# Customer-Segmentation-and-Personality-Analysis
 
 
 <p align="center">
